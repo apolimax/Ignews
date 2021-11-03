@@ -13,7 +13,9 @@ describe(('SigninButton Component'), () => {
 
         useSessionMocked.mockReturnValueOnce([null, false]);
 
-        render(<SubscribeButton />)
+        render(<SubscribeButton />);
+
+        // screen.logTestingPlaygroundURL();
 
         expect(screen.getByText('Subscribe now')).toBeInTheDocument();
     })
