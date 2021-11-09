@@ -14,5 +14,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Fauna](https://fauna.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextAuth.js](https://next-auth.js.org/)
-- [Jest](jestjs.io)
+- [Jest](https://jestjs.io/)
 - [React Testing Library](https://testing-library.com/)
