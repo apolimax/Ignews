@@ -2,7 +2,7 @@
 Application developed in the chapter III of the Ignite ReactJS track
 
 <p align="center">
-  <img src="spacetravelling-screenshot.png" alt="spacetravelling screenshot" height="500px" />
+  <img src="ignews-screenshot.png" alt="ignews screenshot" height="500px" />
 </p>
 
 ## 🚀 Tecnologias
