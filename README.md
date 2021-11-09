@@ -10,7 +10,8 @@ Application developed in the chapter III of the Ignite ReactJS track
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [NextJS](https://nextjs.org/)
-- [Prismic](https://prismic.io/)
+- [Prismic CMS](https://prismic.io/)
+- [Stripe](https://stripe.com/)
 - [Fauna](https://fauna.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextAuth.js](https://next-auth.js.org/)
